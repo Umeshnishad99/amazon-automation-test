@@ -1,0 +1,12 @@
+{
+  "name": "amazon-playwright",
+  "version": "1.0.0",
+  "description": "Amazon automation testing with Playwright",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.43.0"
+  }
+}
